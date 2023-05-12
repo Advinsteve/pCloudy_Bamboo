@@ -1,6 +1,6 @@
 **<font color ="Blue"><h2>Prerequisite and execution of the Test script in Mocha</h2>**</font><br>
 
-1. Need to install Node and NPM [Recomended latest version]<br><br>
+1. Need to install Node and NPM [Recomended latest versio]<br><br>
 
 2. Clone the project in an empty directory  
 
